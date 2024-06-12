@@ -122,3 +122,14 @@ button{
 .size{
     width: 300px;
 }
+.footer{
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+
+}
+.margin{
+    padding: 24px;
+}
